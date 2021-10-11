@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cami.chani1@gmail.com
+	name = Camelia Fauchart
